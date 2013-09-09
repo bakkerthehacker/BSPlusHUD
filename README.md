@@ -1,7 +1,7 @@
 bakkerthehacker's Stock+ HUD
 =========
 
-While some HUD's try to modify every file they can get their grubby little hands on, this HUD uses stock for everything and make only a few necessary changes.
+While some TF2 HUD's try to modify every file they can get their grubby little hands on, this HUD uses stock for everything and make only a few necessary changes.
 
 <a href="https://github.com/bakkerthehacker/BSPlusHUD/archive/bsplushud.zip">Download</a>
 
