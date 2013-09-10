@@ -12,3 +12,8 @@ Changes
 - Scoreboard now supports 16 people per side <a href="http://imgur.com/tfErXVv">Screenshot</a>
 - Kill feed now hold 10 kills <a href="http://imgur.com/LF5akGr">Screenshot</a>
 - Added steam avatars to voice chat <a href="http://imgur.com/yxlAiPX">Screenshot</a>
+
+But can't you just leave the kill feed alone?
+-------
+
+Yes I can.  You can <a href="https://github.com/bakkerthehacker/BSPlusHUD/archive/bsplushud_withoutkillfeed.zip">Download</a> a version without the killfeed modification. 
