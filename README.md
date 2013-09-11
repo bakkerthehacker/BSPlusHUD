@@ -12,6 +12,7 @@ Changes
 - Scoreboard now supports 16 people per side <a href="http://imgur.com/tfErXVv">Screenshot</a>
 - Kill feed now hold 10 kills <a href="http://imgur.com/LF5akGr">Screenshot</a>
 - Added steam avatars to voice chat <a href="http://imgur.com/yxlAiPX">Screenshot</a>
+- Added static damage indicator <a href="http://imgur.com/7pi3yDqh">Screenshot</a>
 
 But can't you just leave the kill feed alone?
 -------
