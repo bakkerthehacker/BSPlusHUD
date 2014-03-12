@@ -1,4 +1,4 @@
-bakkerthehacker's Stock+ HUD
+[![bakkerthehacker](https://secure.gravatar.com/avatar/5d41671650b9f93a138b64e61c2ad8e4.png?s=28)](https://github.com/bakkerthehacker) bakkerthehacker's Stock+ HUD
 =========
 
 While some TF2 HUD's try to modify every file they can get their grubby little hands on, this HUD uses stock for everything and make only a few necessary changes.
