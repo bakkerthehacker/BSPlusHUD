@@ -258,7 +258,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"250"
+		"ypos"		"285"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
@@ -295,7 +295,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"300"
+		"ypos"		"335"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
@@ -1231,7 +1231,7 @@
 		"NormalY"		"10"
 		"EngineerY"		"170"
 		"zpos"			"2"
-		"wide"			"200"
+		"wide"			"280"
 		"tall"			"280"
 		"visible"		"1"
 		"enabled"		"1"	
@@ -1368,10 +1368,10 @@
 	}
 
 
-	"CTFKillStreakNotice"
+	"CTFStreakNotice"
 	{
-		"fieldName"		"CTFKillStreakNotice"
-		"xpos"			"0"			
+		"fieldName"		"CTFStreakNotice"
+		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"640"
 		"tall"			"480"
@@ -1379,6 +1379,18 @@
 		"enabled"		"1"
 		"bgcolor_override"	"0 0 0 0"
 		"PaintBackgroundType"	"0" // rounded corners
+	}
+
+	CTFFlagCalloutPanel
+	{
+		"fieldName"		"CTFFlagCalloutPanel"
+		"visible" 		"0"
+		"enabled" 		"1"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"	 		"40"
+		"tall"	 		"40"
+		"priority"		"40"
 	}
 
 	"HudMenuTauntSelection"
@@ -1393,5 +1405,17 @@
 		"wide"			"470"
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
+	}
+
+
+	HudMiniGame
+	{
+		"fieldName" "HudMiniGame"
+		"visible" "1"
+		"enabled" "1"
+		"xpos"	"0"
+		"ypos"	"0"
+		"wide"	"f0"
+		"tall"	"480"
 	}
 }
